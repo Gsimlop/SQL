@@ -14,3 +14,8 @@ A lo largo del curso **SQL INTERMEDIATE**, he trabajado con una base de datos de
 - Ordenar y agrupar datos con ORDER BY y GROUP BY
 - Presentar la información de manera clara y estructurada
 
+A lo largo del curso **Joining Data on SQL**, he aprendido lo siguiente:
+
+ - Joins esenciales: INNER JOIN, OUTER JOIN (LEFT, RIGHT, FULL), CROSS JOIN y SELF JOIN.
+ - Set Theory en SQL: UNION, INTERSECT y EXCEPT para manipular conjuntos de datos.
+ - Subqueries avanzadas: Nested queries, semi-joins y anti-joins para mejorar la eficiencia de las consultas.
